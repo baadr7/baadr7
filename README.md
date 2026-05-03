@@ -92,15 +92,7 @@ I'm a second-year engineering student in **Artificial Intelligence & Data Techno
 
 <p align="center">
   <a href="https://github.com/baadr7">
-    <img src="https://github-readme-stats.vercel.app/api?username=baadr7&show_icons=false&theme=radium&hide_border=true" alt="baadr7's GitHub Stats" />
-  </a>
-  <a href="https://github.com/baadr7">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=baadr7&theme=radium&hide_border=true" alt="baadr7's Streak" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/baadr7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baadr7&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
