@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bilal Ma</h1>
-<h3 align="center">AI & Data Engineering Student | Machine Learning Enthusiast</h3>
+<h3 align="center">Artificial Intelligence & Data Technologies: Industrial Systems Engineering Student at ENSAM Meknes | AI Technologies, Data Science, Software Engineering, Cybersecurity.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bilal-ma-" target="_blank">
