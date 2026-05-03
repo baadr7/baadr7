@@ -18,7 +18,7 @@
 ### About Me
 I'm a second-year engineering student in **Artificial Intelligence & Data Technologies** at ENSAM Meknès. I combine mathematical rigor with technical expertise to solve complex industrial problems. Passionate about Machine Learning, Generative AI, and autonomous systems.
 
-- **Education:**Artificial Intelligence & Data Technologies: Industrial Systems Engineering Student at ENSAM Meknes  (Expected 2027) 
+- **Education:** Artificial Intelligence & Data Technologies: Industrial Systems Engineering Student at ENSAM Meknes  (Expected 2027).
 - **Interests:** Reinforcement Learning, RAG, AI Agents, XAI.
 - **Leadership:** Vice-President of the Robotics Club (CRIAM), Organizer of African Robotics Brain '24.
 
