@@ -69,10 +69,6 @@ I'm a final-year engineering student in **Artificial Intelligence & Data Technol
   *React, TypeScript, Multi-Agent Systems, LLMs, RAG* <br>
   Multi-agent AI framework for industrial design, demonstrated on a DN100 butterfly valve case study: 6 orchestrated AI agents, deterministic DFx scoring, HITL autonomy levels (L1–L5), and an audited digital thread (EU AI Act–style governance).
 
-- **[JESA Digital Twin — Industry 4.0 Platform](https://github.com/baadr7)** <br>
-  *Node-RED, MQTT, OPC UA, XGBoost, Three.js, Docker* <br>
-  Industry 4.0 Digital Twin & Predictive Maintenance platform built at JESA Casablanca: Node-RED OT/IT gateway, ISA-18.2 alarm engine, ML-based predictive maintenance, and a real-time 3D web supervision UI.
-
 - **[Intelligent Educational Platform](https://github.com/baadr7)** <br>
   *Spring Boot, LLM, RAG Architecture, AI Agents* <br>
   Developed a web platform for personalized quizzes leveraging GenAI and RAG architecture for adaptive feedback.
